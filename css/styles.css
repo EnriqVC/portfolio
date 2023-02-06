@@ -1,0 +1,46 @@
+h1 {
+    color:red;
+
+}
+
+.header {
+    color: rgb(127, 204, 255);
+}
+
+.favorite {
+    font-size: x-large;
+    color: palevioletred;
+    background-color: rgb(228, 250, 215);
+    width: 50ex;
+    border: 15px;
+    padding: 5ex;
+    margin: 20ex;
+}
+
+.aboutme {
+    background-color: antiquewhite;
+    width: auto;
+    border: 15px saddlebrown;
+    padding: 50px;
+    margin: 20px;
+}
+
+a:link {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+
+a:hover {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+a:active {
+    color: blue;
+    text-decoration: underline;
+}
